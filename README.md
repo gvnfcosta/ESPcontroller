@@ -10,4 +10,4 @@ O controle ocorre pela internet sem precisar estar na mesma rede e nem no mesmo 
 Muito útil para Internet das Coisas.
 
 
-<img width="1080" height="2400" alt="Led Controll Flutter App" src="https://github.com/user-attachments/assets/d7df2e6d-9311-48b4-8b68-c3eee38e8a8e" />
+<img width="360" height="800" alt="Led Controll Flutter App" src="https://github.com/user-attachments/assets/d7df2e6d-9311-48b4-8b68-c3eee38e8a8e" />
