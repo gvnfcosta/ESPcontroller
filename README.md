@@ -1,16 +1,13 @@
 # led_arduino
 
-A new Flutter project.
+Controle liga/desliga LED via Firebase. 
 
-## Getting Started
+Meu primieiro projeto para controle das funções de uma ESP8266.
+Desenvolvi usando IA para aprendizado e aprimoramentos e como projeoto de estudo.
 
-This project is a starting point for a Flutter application.
+O projeto consiste de um App em Flutter com uma tela contendo um botão que liga e desliga o led na placa que é conectada no wi-fi. 
+O controle ocorre pela internet sem precisar estar na mesma rede e nem no mesmo ambiente, pois usa acesso pelo BD do Firebase.
+Muito útil para Internet das Coisas.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="1080" height="2400" alt="Led Controll Flutter App" src="https://github.com/user-attachments/assets/d7df2e6d-9311-48b4-8b68-c3eee38e8a8e" />
