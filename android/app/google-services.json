@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "571493867295",
+    "firebase_url": "https://espcontroller-a8a69-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "espcontroller-a8a69",
+    "storage_bucket": "espcontroller-a8a69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571493867295:android:69c143c35ebbcaeeee9a2a",
+        "android_client_info": {
+          "package_name": "br.com.dacost"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT0QtavYpgVc0jAE9dCO62tM7aspfkMd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
